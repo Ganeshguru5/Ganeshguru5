@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1t2dJjdmD5K79SUa72A4oUhnx1kvWzsPM/view)]
+[![MasterHead](https://www.canva.com/design/DAExHBrnCy4/JSy9tA6YCsQWpUpqKGuN6w/view?utm_content=DAExHBrnCy4&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)](https://drive.google.com/file/d/1t2dJjdmD5K79SUa72A4oUhnx1kvWzsPM/view?usp=sharing)
 <h1 align="center">Hi 🤳, I'm Ganeshguru</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
