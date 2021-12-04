@@ -10,7 +10,8 @@
 <p align="left"> <a href="https://twitter.com/ganeshguru5034" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshguru5034?logo=twitter&style=for-the-badge" alt="ganeshguru5034" /></a> </p>
 
 - 📫 How to reach me **gananeshguru8681@gmail.com**
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshguru5" alt="ganeshguru5" /></a> </p>
+<img align='right' width='400' src='https://user-images.githubusercontent.com/61460873/144700455-fa3362d6-d3d0-45b6-a4b1-b6e0f5d359bd.gif'>
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
 <a href="https://twitter.com/ganeshguru5034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganeshguru5034" height="30" width="40" /></a>
