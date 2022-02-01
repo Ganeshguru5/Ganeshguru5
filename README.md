@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshguru5&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshguru5" /> </p>
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/trekkie.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/octofez.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/mummytocat.gif" height="160px" width="160px"> </p>
 
-[![MasterHead](https://user-images.githubusercontent.com/61460873/143996104-0cc67975-1d64-40ab-a9e6-52bdd3c6439c.jpg)](https://drive.google.com/file/d/1t2dJjdmD5K79SUa72A4oUhnx1kvWzsPM/view?usp=sharing)
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ganeshguru</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -10,15 +10,18 @@
 <p align="left"> <a href="https://twitter.com/ganeshguru5034" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshguru5034?logo=twitter&style=for-the-badge" alt="ganeshguru5034" /></a> </p>
 
 - 📫 How to reach me **gananeshguru8681@gmail.com**
+- 🤩 It is my passion to develop new things
+- 🧑‍🎓 At the moment, I am a student of CSE at Kamaraj College of Engineering and Technology
+- 🔖 In my spare time, I am interested in Internet development and UX/UI design. 
+- 💬 I can help you with web development, Django development, and community work.
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ganeshguru5" alt="ganeshguru5" /></a> </p>
 <img align='right' width='400' src='https://user-images.githubusercontent.com/61460873/144700455-fa3362d6-d3d0-45b6-a4b1-b6e0f5d359bd.gif'>
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
-<a href="https://twitter.com/ganeshguru5034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ganeshguru5034" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ganeshguru-a-ab5399176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganeshguru-a-ab5399176" height="30" width="40" /></a>
-<a href="https://instagram.com/ga_nez_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ga_nez_" height="30" width="40" /></a>
-<a href="https://www.behance.net/ganeshguru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ganeshguru" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ganeshguru8681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ganeshguru8681" height="30" width="40" /></a>
+ <a href="https://twitter.com/GANESHGURU5034"><img src="https://img.shields.io/badge/twitter-GANESHGURU5034-0077b5?style=social&logo=twitter" /></a>
+ <a href="https://www.linkedin.com/in/ganeshguru-a-ab5399176/"><img src="https://img.shields.io/badge/linkedin-GANEHSHGURU A-0077b5?style=social&logo=linkedin" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h3>
