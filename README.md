@@ -19,7 +19,7 @@
 - 💬 I can help you with web development, Django development, and community work.
 
 
-<img align='right' width='500' height='250' src='https://user-images.githubusercontent.com/61460873/151949555-3990b09a-263f-4493-93ff-bd6b8b334bdd.gif'>
+<img align='right' width='350' height='250' src='https://user-images.githubusercontent.com/61460873/154711589-58cf0633-8885-4db5-833a-b74d22079c7f.gif'>
 <h3 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h3>
 <p align="left">
  <a href="https://twitter.com/GANESHGURU5034" target="_blank"><img src="https://img.shields.io/badge/twitter-GANESHGURU5034-0077b5?style=social&logo=twitter" /></a>
