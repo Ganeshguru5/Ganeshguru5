@@ -16,7 +16,7 @@
 - 🤩 It is my passion to develop new things
 - 🧑‍🎓 At the moment, I am a student of CSE at Kamaraj College of Engineering and Technology
 - 🔖 In my spare time, I am interested in Internet development and UX/UI design. 
-- 💬 I can help you with web development, Django development, and community work.
+- 💬 I can help you with web development, Django development,React Native(Mobile App Dev) and community work.
 
 
 <img align='right' width='350' height='250' src='https://user-images.githubusercontent.com/61460873/154711589-58cf0633-8885-4db5-833a-b74d22079c7f.gif'>
