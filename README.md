@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/ganeshguru5034" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshguru5034?logo=twitter&style=for-the-badge" alt="ganeshguru5034" /></a> </p>
 
-- 📫 How to reach me **gananeshguru8681@gmail.com**
+- 📫 How to reach me **https://meganeshguru.web.app**
 - 🤩 It is my passion to develop new things
 - 🧑‍🎓 At the moment, I am a student of CSE at Kamaraj College of Engineering and Technology
 - 🔖 In my spare time, I am interested in Internet development and UX/UI design. 
