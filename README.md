@@ -19,7 +19,6 @@
 - 💬 I can help you with web development, Django development,React Native(Mobile App Dev) and community work.
 
 
-<img align='right' width='350' height='250' src='https://user-images.githubusercontent.com/61460873/154711589-58cf0633-8885-4db5-833a-b74d22079c7f.gif'>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://twitter.com/GANESHGURU5034" target="_blank"><img src="https://img.shields.io/badge/twitter-GANESHGURU5034-0077b5?style=social&logo=twitter" /></a>
