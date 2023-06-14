@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ganeshguru</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://user-images.githubusercontent.com/61460873/151948988-2a8e8d3b-0d53-4dd2-8913-dd74b0e1d5bc.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">  </p>
+<p align="center"> <img src="https://github.com/Ganeshguru5/Ganeshguru5/assets/61460873/b4cc971d-ea09-4249-85f3-0044995851ca" height="160px" width="160px"> <img src="https://user-images.githubusercontent.com/61460873/151948988-2a8e8d3b-0d53-4dd2-8913-dd74b0e1d5bc.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">  </p>
 
 
 
