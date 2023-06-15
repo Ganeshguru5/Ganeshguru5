@@ -4,17 +4,22 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ganeshguru</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="center"> <img src="https://github.com/Ganeshguru5/Ganeshguru5/assets/61460873/b4cc971d-ea09-4249-85f3-0044995851ca" height="160px" width="160px"> <img src="https://user-images.githubusercontent.com/61460873/151948988-2a8e8d3b-0d53-4dd2-8913-dd74b0e1d5bc.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px">  </p>
+<p align="center"> 
+ <img src="https://github.com/Ganeshguru5/Ganeshguru5/assets/61460873/b2506d5e-b2c6-41aa-a39b-1565a9372f69" height="80px" width="80px">
+ 
+  <img src="https://github.com/Ganeshguru5/Ganeshguru5/assets/61460873/a435261d-5c6d-4e10-8ff2-312be4d80079" height="80px" width="80px">
+<img src="https://github.com/Ganeshguru5/Ganeshguru5/assets/61460873/e1d60db5-bb01-47a4-b455-540d9f45960c" height="80px" width="80px">
+ <img src="https://github.com/Ganeshguru5/Ganeshguru5/assets/61460873/6cbe01cd-3372-42f0-babf-8cbad09f62c4" height="80px" width="80px">
 
 
-
+  </p>
 
 
 <p align="left"> <a href="https://twitter.com/ganeshguru5034" target="blank"><img src="https://img.shields.io/twitter/follow/ganeshguru5034?logo=twitter&style=for-the-badge" alt="ganeshguru5034" /></a> </p>
 
 - 📫 How to reach me **https://meganeshguru.web.app**
-- 🤩 It is my passion to develop new things
-- 🧑‍🎓 At the moment, I am a student of CSE at Kamaraj College of Engineering and Technology
+- 🤩 It is my passion to develop new things.
+- 🧑‍🎓 At the moment, I am a Fresher passionate about MERN stack.
 - 🔖 In my spare time, I am interested in Internet development and UX/UI design. 
 - 💬 I can help you with MERN stack development,React Native(Mobile App Dev) and community work.
 
@@ -35,3 +40,6 @@
 </div>
 
 <img src='https://github-readme-stats.vercel.app/api?username=ganeshguru5&show_icons=true&theme=apprentice'>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ganeshguru5)](https://git.io/streak-stats)
+
