@@ -39,7 +39,4 @@
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
-<img src='https://github-readme-stats.vercel.app/api?username=ganeshguru5&show_icons=true&theme=apprentice'>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ganeshguru5)](https://git.io/streak-stats)
-
+<img src='https://github-readme-stats.vercel.app/api?username=Ganeshguru5&show_icons=true&theme=apprentice'>
